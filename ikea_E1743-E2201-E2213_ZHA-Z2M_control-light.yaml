@@ -1,7 +1,7 @@
 blueprint:
   homeassistant:
     min_version: 2024.10.0
-  author: damru
+  author: tempranova
   domain: automation
   name: Ikea's Rodret, Somrig or Tradfri 💡 Light control
   description: >
